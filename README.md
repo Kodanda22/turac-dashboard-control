@@ -1,4 +1,4 @@
-# TuRAC – Integrated Dashboard and Control System
+# TuRAC – Dashboard and Control System
 
 Author: Kodanda Ramudu Tailam  
 Enrollment Number: 42732  
@@ -9,7 +9,7 @@ Course: Embedded Systems Project (ES-PROL / ESD2)
 
 ## 1. System Overview
 
-This repository contains the final integrated control and monitoring system developed for the TuRAC project.
+This repository contains the integrated control and monitoring system developed for the TuRAC project.
 
 The system provides:
 
